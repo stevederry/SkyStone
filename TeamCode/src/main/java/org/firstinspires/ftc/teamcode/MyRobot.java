@@ -5,7 +5,8 @@ import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 public class MyRobot extends LinearOpMode {
     @Override
     public void runOpMode() throws InterruptedException {
-        //test
-        //test2
+        //test from pc
+        //test2 from web
+        //test3 from pc
     }
 }
